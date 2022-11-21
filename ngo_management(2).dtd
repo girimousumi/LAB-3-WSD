@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE ngo_management [
+<!ELEMENT details (donor_id,donor_name,donor_address,donor_phone,donor_mail)>
+<!ELEMENT donor_id(#PCDATA)>
+<!ELEMENT donor_name (#PCDATA)>
+<!ELEMENT donor_address (#PCDATA)>
+<!ELEMENT donor_phone(#PCDATA)>
+<!ELEMENT donor_mail(#PCDATA)>
+]>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ngo_management.xsl"?>
+<ngo_management>
+   <donor>
+      <donor_id>1</donor_id>
+      <donor_name>Nimit</donor_name>
+      <donor_address>New Delhi</donor_address>
+      <donor_phone>9599</donor_phone>
+      <donor_mail>nimit@gmail.com</donor_mail>
+   </donor>
+   <donor>
+      <donor_id>2</donor_id>
+      <donor_name>Gagan</donor_name>
+      <donor_address>Bengaluru</donor_address>
+      <donor_phone>9315</donor_phone>
+      <donor_mail>gagan@gmail.com</donor_mail>
+   </donor>
+   <donor>
+      <donor_id>3</donor_id>
+      <donor_name>Kenny</donor_name>
+      <donor_address>Kerela</donor_address>
+      <donor_phone>8551</donor_phone>
+      <donor_mail>kenny@gmail.com</donor_mail>
+   </donor>
+   <donor>
+      <donor_id>4</donor_id>
+      <donor_name>Jerry</donor_name>
+      <donor_address>Hyderabad</donor_address>
+      <donor_phone>9643</donor_phone>
+      <donor_mail>jerry@gmail.com</donor_mail>
+   </donor>
+   <donor>
+      <donor_id>5</donor_id>
+      <donor_name>Aniket</donor_name>
+      <donor_address>Gurgaon</donor_address>
+      <donor_phone>8500</donor_phone>
+      <donor_mail>aniket@gmail.com</donor_mail>
+   </donor>
+   <donor>
+      <donor_id>6</donor_id>
+      <donor_name>Kiran</donor_name>
+      <donor_address>Chennai</donor_address>
+      <donor_phone>9876</donor_phone>
+      <donor_mail>kiran@gmail.com</donor_mail>
+   </donor>
+   <donor>
+      <donor_id>7</donor_id>
+      <donor_name>Jeewan</donor_name>
+      <donor_address>Pondicherry</donor_address>
+      <donor_phone>9953</donor_phone>
+      <donor_mail>jeewan@gmail.com</donor_mail>
+   </donor>
+   <donor>
+      <donor_id>8</donor_id>
+      <donor_name>Diksha</donor_name>
+      <donor_address>Agra</donor_address>
+      <donor_phone>1234</donor_phone>
+      <donor_mail>diksha@gmail.com</donor_mail>
+   </donor>
+</ngo_management>
